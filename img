@@ -1,1 +1,4 @@
+git add img/*
+git commit -m "Adicionando imagens na pasta img"
+git push
 
